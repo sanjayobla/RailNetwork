@@ -1,8 +1,9 @@
 # RailNetwork
-To execute, run the following commands:
+To execute, run the following commands from inside the repo:
 ```
-SObla-288:RailNetwork sobla$ javac RailNetwork.java
-SObla-288:RailNetwork sobla$ java RailNetwork
+SObla-288:RailNetwork sobla$ cd src/
+SObla-288:src sobla$ javac main/RailNetwork/RailNetwork.java
+SObla-288:src sobla$ java main/RailNetwork/RailNetwork
 ```
 The output would look like this
 ```
