@@ -1,8 +1,8 @@
 # RailNetwork
 To execute, run the following commands:
 ```
-javac RailNetwork.java
-java RailNetwork
+SObla-288:RailNetwork sobla$ javac RailNetwork.java
+SObla-288:RailNetwork sobla$ java RailNetwork
 ```
 The output would look like this
 ```
